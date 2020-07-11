@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cart-proto-eagle-import)(type Legacy)(uri ${KIPRJMOD}/cart-proto-eagle-import.lib)(options "")(descr ""))
+)
